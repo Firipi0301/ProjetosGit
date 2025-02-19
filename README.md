@@ -5,4 +5,5 @@ Habilidades:
 
 °Linguagem C: Desenvolvimento de aplicações de baixo nível, manipulação de arquivos, e integração com bibliotecas.
 °MySQL: Criação e gerenciamento de bancos de dados, elaboração de consultas SQL complexas, e otimização de desempenho.
+
 °Integração C/MySQL: Desenvolvimento de aplicações que interagem com bancos de dados MySQL através da linguagem C, utilizando a biblioteca MySQL Connector/C.
