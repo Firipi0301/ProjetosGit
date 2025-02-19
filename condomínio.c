@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-
 int main (){
     
     int numero_casa, R1, R2, R3; 
@@ -31,4 +30,4 @@ int main (){
         printf("casa impar ao lado esquerdo\n");
     }
     
-}
+};
